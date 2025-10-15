@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Ejemplo1_HolaMundo
+namespace Ejemplo2_Foto
 {
     public class Program
     {

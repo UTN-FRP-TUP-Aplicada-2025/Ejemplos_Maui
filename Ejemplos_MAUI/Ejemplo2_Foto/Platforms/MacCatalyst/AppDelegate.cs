@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Ejemplo1_HolaMundo
+namespace Ejemplo2_Foto
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate
